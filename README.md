@@ -1,4 +1,8 @@
-This repository was built for MCM competition. In this match, we choosed Probelm_A which required us to build a model to study the interaction between different types of fungal communities. To solve this problem, we built three models bellow. Here we will show you the relating dataset and our code files. The concrete description will also be provided so that you can repeat our results.(if you care about the result only, go to the bottom of this README file please)
+## Introduction
+
+This repository was built for MCM competition. In this match, we choosed Probelm_A which required us to build a model to study the interaction between different types of fungal communities. To solve this problem, we built three models bellow. Here we will show you the relating dataset and our code files. The concrete description will also be provided so that you can repeat our results.(if you care about the result only, go to the bottom of this README file[Last Part] please)
+
+## Our Work
 
 Model One-Decomposition of Individual Fungal Species.
 
