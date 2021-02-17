@@ -17,7 +17,7 @@ First part (Markov chain model):
 dataset
 
 - original_data/Experimental_outcomes.csv
-- processed_data/datasetForMatlab.zip/compe.mat
+- processed_data/mat.csv
 
 code file
 
